@@ -4,7 +4,7 @@
 		Copyright &copy; <?php bloginfo( 'name' ); ?>
 	</small>
 </div>
-echo "test";
+echo "test2";
 
 <?php dynamic_sidebar('footerbar');  ?>
 <?php dynamic_sidebar('footer_left');  ?>
